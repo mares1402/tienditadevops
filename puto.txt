@@ -1,2 +1,4 @@
+git init
 puto el que lo lea 
-puto santiago 
+puto santiago
+santiago s
