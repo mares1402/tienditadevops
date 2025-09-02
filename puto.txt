@@ -1,5 +1,1 @@
-git init
-puto el que lo lea 
-puto santiago
-santiago s
-hola chavito 
+hola de nuevo 
